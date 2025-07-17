@@ -20,6 +20,5 @@ msgid "ascending"
 msgstr "ascending"
 
 msgid "descending"
-msgstr "descending"
+msgstr "descending 9"
 
-msgid "Viewing rows {0} to {1} of {2}"
