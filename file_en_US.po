@@ -16,9 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # SOURCE_FILE C:/Path/to/my/source/files/Matrix.js
-msgid "ascending"
-msgstr "ascending"
-
-msgid "descending"
-msgstr "descending 9"
+msgid "You have made unsaved changes"
+msgstr "You have made unsaved changes"
 
